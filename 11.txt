@@ -1,0 +1,17 @@
+13.127.183.104 uatservices.ekaushal.com
+#13.235.129.189 uatservices.ekaushal.com 
+##
+
+
+#Hostnamectl set-hostname host_name
+# exec bash (to change promtp)
+ansible_ssh_user=    ()
+-------------------------
+ ansible all -b -a "/usr/sbin/reboot"
+-b become
+-a to run command 'MODULE_ARGS', --args 'MODULE_ARGS'
+--------
+ansible_winrm_server_cert-validation=ignore ingore ssl validation win machine'
+Distributed Version Control System/CVCS
+1. install git 
+2. get init -> workspace (write a code in working directory) -> staging area (ADD/frize)-> local repo (Commit ID)
